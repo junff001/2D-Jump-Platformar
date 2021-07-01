@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - YOUDIED
+  - MovePlat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GROUND
+  - YOUDIED
+  - MOVEPLAT
+  - BundlePlat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4181472349
+    locked: 0
+  - name: Ground
+    uniqueID: 2150044881
+    locked: 0
+  - name: ETC
+    uniqueID: 3477190271
+    locked: 0
+  - name: NextStage
+    uniqueID: 2841784449
+    locked: 0
+  - name: Player
+    uniqueID: 3168979147
+    locked: 0
