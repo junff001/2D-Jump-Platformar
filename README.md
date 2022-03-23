@@ -7,7 +7,7 @@
 ## 기능
 - Platform Effetor 2D 와 TileMap 을 활용하여 스테이지를 구성 및 구현하였습니다.
 ![화면 캡처 2022-03-23 005306](https://user-images.githubusercontent.com/71419212/159523037-e2ec1629-7606-40e4-9553-cb4b841c62e4.png)
-- 총 3개의 스테이지는 프리팹으로 만들어 매 도착지점 마다 On/Off를 실행하여 다음 스테이지로 전환하게 끔 만들었습니다.
+- 총 3개의 스테이지는 프리팹으로 만들어 매 도착지점 마다 On/Off를 실행하여 다음 스테이지로 전환하게 끔 만들었습니다.  
 ![화면 캡처 2022-03-23 004812](https://user-images.githubusercontent.com/71419212/159522816-443b16c4-1a37-46ce-b4d7-c9d78f672bfb.png)
 - 버추얼 시네마틱 카메라를 사용하여 카메라가 플레이어를 따라가게끔 만들었습니다.
 ![image](https://user-images.githubusercontent.com/71419212/159523343-884ff72f-7ba3-4a2a-9b87-4eea8b99702b.png)
